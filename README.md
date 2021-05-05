@@ -31,3 +31,6 @@ esta na porta 80 sem comunicacao com o seu pc , para
 estabelecer essa comunicacao tem aque por o ":" e as 
 respecitivas portas 80:80, cujo a primeira e a porta da 
 sua maquina, e o segundo e a porta do conteiner)</p>
+<p> </p>
+<p> 7- Abra seu navegador e digite localhost, se 
+abriu a pagina web, parabens voce criou um conteiner.</p>

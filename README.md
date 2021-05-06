@@ -13,7 +13,7 @@ entao tudo aqui e bem basico.</p>
 <p> 2- A imagem base utilizada sera
  uma imagem do nginx; </p>
 <p> 3- Por os arquivos de imagem e o index.html
-dentro do conteiner;</p>
+dentro do conteiner, neste diretorio /usr/share/nginx/html;</p>
 <p> 4- Nao se esqueca de expor na porta 80, para nao
 ter necessidade de mecher nos arquivos Nginx dentro do
 container(isso aqui e apenas um treinamento basico, 
